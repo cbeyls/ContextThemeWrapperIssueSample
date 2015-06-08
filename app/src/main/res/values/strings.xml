@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextThemeWrapperIssueSample</string>
+
+    <string name="sample_text">This text should be white over a dark background</string>
+</resources>
